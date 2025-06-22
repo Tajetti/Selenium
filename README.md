@@ -14,3 +14,6 @@ Com o Python já instalado, crie um ambiente virtual com o seguinte comando:
 python3 -m venv venv
 ```
 Quando instalado, execute o arquivo criado testSelenium.py
+
+### Site testado:
+https://www.saucedemo.com/
