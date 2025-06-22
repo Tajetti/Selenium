@@ -12,3 +12,5 @@ Com o Python já instalado, crie um ambiente virtual com o seguinte comando:
 
 ```bash
 python3 -m venv venv
+```
+Quando instalado, execute o arquivo criado .py
