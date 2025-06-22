@@ -1,10 +1,14 @@
-<h1>Selenium</h1>
-<p>O selenium é um conjunto de ferramentas para automação de navegadores web.</p>
-<p>É usado principalmente para automatizar testes de aplicações web, mas também serve para scraping e simulações de uso</p>
+# Selenium
 
-<hr>
+O Selenium é um conjunto de ferramentas para automação de navegadores web.
 
-<h2>Como executar:</h2>
-<p>Com o python já instalado, digite esse comando no terminal:</p>
-```
-Python3 -m venv venv
+Ele é usado principalmente para automatizar testes de aplicações web, mas também pode ser utilizado para scraping de dados e simulações de uso por usuários.
+
+---
+
+## Como executar:
+
+Com o Python já instalado, crie um ambiente virtual com o seguinte comando:
+
+```bash
+python3 -m venv venv
