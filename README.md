@@ -6,4 +6,5 @@
 
 <h2>Como executar:</h2>
 <p>Com o python já instalado, digite esse comando no terminal:</p>
+```
 Python3 -m venv venv
